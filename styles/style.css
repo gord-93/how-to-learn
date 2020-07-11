@@ -117,18 +117,14 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin: 0;
-}
-
-.two-columns__margin_place_main-text {
-  margin: 30px 0;
+  margin: 0 0 30px;
 }
 
 .digits {
   display: flex;
   flex-direction: column; 
   align-items: center;
-  padding-top: 100px;
+  padding-top: 70px;
   padding-bottom: 100px;
 }
 
@@ -171,19 +167,14 @@
   margin: 0 0 20px;
 }
 
-.table__margin_place_table_cell {
-  margin: 20px 0;
-}
-
 .table__text {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   margin-bottom: 0;
+  margin-top: 20px;
 }
-* {
-  outline: 1px solid red;
-}
+
 .feynman {
   height: 790px;
   background-color: #f2f2f2;
@@ -366,14 +357,14 @@
   margin-bottom: 20px;
 }
 
-.footer__column_links {
+.footer__column-links {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   margin-bottom: 16px;
 }
 
-.footer__column_link {
+.footer__column-link {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
