@@ -42,7 +42,6 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
-  align-self: left;
   margin-left: 64px;
   padding-bottom: 10px;
 }
@@ -155,7 +154,6 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: space-between;
 }
 
 .table__cell {
@@ -263,7 +261,6 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: space-between;
   z-index: 1;
 }
 
